@@ -10,11 +10,11 @@ I work with data not just to describe outcomes, but to understand underlying pat
 I am particularly interested in applying data to real-world challenges, where analysis can influence **strategy, efficiency, and long-term impact**.
 
 ## Tools & Technologies
-**Power BI** – Dashboard development & data visualization  
-**Excel** – Data cleaning & analysis  
-**SQL** – Data querying & transformation  
-**Python** – Data analysis with Pandas & NumPy  
-**SPSS** - Statistical analysis 
+**Power BI** – Dashboard development & - **Power BI** – Dashboard development & data visualization  
+- **Excel** – Data cleaning & analysis  
+- **SQL** – Data querying & transformation  
+- **Python** – Data analysis with Pandas & NumPy  
+- **SPSS** - Statistical analysis 
 
 ## Projects
 **Consumer Complaints Analysis (Power BI)**  
@@ -31,3 +31,4 @@ I am particularly interested in applying data to real-world challenges, where an
 ## Contact Me
 **LinkedIn:** [https://www.linkedin.com/in/yusuf-abdul-wahab-6b9946278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 **Email:** yusufgbolahanwahab@gmail.com  
+I apply structured thinking, analytical reasoning, and problem-solving to turn raw data into insights that inform decisions.
